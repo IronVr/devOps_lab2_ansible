@@ -46,4 +46,4 @@
 
 **Пример тестовой страницы:**
 
-![Первое изображение]<img width="1360" height="726" alt="image" src="https://github.com/user-attachments/assets/00e73ad5-8f27-44ea-b463-3ab5bf1a7e13"/>
+<img width="1360" height="726" alt="image" src="https://github.com/user-attachments/assets/00e73ad5-8f27-44ea-b463-3ab5bf1a7e13"/>
